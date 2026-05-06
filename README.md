@@ -94,11 +94,7 @@ This project is created for beginners to practice:
 
 ---
 
-## 🙌 Author
 
-* Your Name
-
----
 
 ⭐ If you like this project, give it a star!
 
